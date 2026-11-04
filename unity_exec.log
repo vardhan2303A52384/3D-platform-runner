@@ -1,0 +1,10 @@
+[LicensingClient] Channel doesn't exist: "LicenseClient-SRI SAHITH"
+[Licensing::Module] Successfully launched the LicensingClient (PId: 1492)
+[LicensingClient] Handshaking with LicensingClient (version: 1.9.0+249add7)
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-SRI SAHITH" (connect: 1.79s, validation: 0.09s, handshake: 2.87s)
+[Licensing::Module] Connected to LicensingClient (PId: 1492, launch time: 0.02, total connection time: 4.74s)
+Entitlement-based licensing initiated
+[Licensing::Module] Error: Access token is unavailable
+[LicensingClient] Licenses updated successfully
+BatchMode: Unity has not been activated with a valid License. Could be a new activation or renewal...
+[UnityConnectServicesConfig] config is NOT valid, switching to default
